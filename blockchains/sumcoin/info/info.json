@@ -1,0 +1,29 @@
+{
+    "name": "Sumcoin",
+    "website": "https://sumcoin.org",
+    "description": "Sumcoin is a peer-to-peer nearly instant currency priced by a crypto Index.  Sumcoin, or the "SUM" of coins means that Sumcoin is price as it tracks all coins in near real time from over 4000 different data points. It is the first Index priced digital currency.  It's rate is determined by a "SUM" of the top 100 coins by marketcap.  Sumcoin works without a central bank or single administrator.",
+    "explorer": "https://insight.sumcore.org",
+    "research": "https://sumcoin.org",
+    "symbol": "SUM",
+    "type": "coin",
+    "decimals": 8,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/sumcoinlabs"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SumcoinIndex"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Sumcoin"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://bitcoin.org/bitcoin.pdf"
+        }
+    ]
+}
